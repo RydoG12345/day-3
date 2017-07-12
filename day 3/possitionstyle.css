@@ -1,0 +1,22 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+#first{
+  width: 400px;
+  height: 400px;
+  background-color: gold;
+  position: relative;
+  top: 50%;
+  left: 50%;
+}
+
+#second{
+  width: 400px;
+  height: 400px;
+  background-color: lime;
+  position: absolute;
+  top: 0;
+  left: 0;
+}

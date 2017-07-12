@@ -1,0 +1,20 @@
+body{
+    width: 800px;
+    height: 800px;
+}
+div.tile{
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+div.black{
+    background-color: black;
+}
+div.white{
+    background-color: white;
+}
+#gameboard{
+    width: 800px;
+    height: 800px;
+    border: 10px solid brown;
+}
